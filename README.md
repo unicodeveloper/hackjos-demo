@@ -1,8 +1,8 @@
-# DevCraft Demo - KE Food Quest
+# HackJos Demo - Food Quest
 
-This is a sample app to demonstrate use of auth0 for identity management in an SPA. This is codelab from a workshop at DevCraft 2016 by [Segun Famisa](https://github.com/segunfamisa) and I.
+This is a sample app to demonstrate use of auth0 for identity management in an SPA. This is codelab from a presentation at HackJos 2016 by [Prosper Otemuyiwa](https://github.com/unicodeeloper).
 
-A user signs into the app to unlock a tasty plate of Kenyan delicacy. Most likely the Ughali
+A user signs into the app to unlock a tasty plate of Nigerian Jollof.
 
 ## Screenshots
 
@@ -13,7 +13,7 @@ _Auth0 lock Widget_
 ![screen shot 2016-09-29 at 5 25 11 am](https://cloud.githubusercontent.com/assets/2946769/18939005/b79ebf26-8605-11e6-975b-cd57b76a3d60.png)
 _Profile Info_
 ![screen shot 2016-09-29 at 5 25 03 am](https://cloud.githubusercontent.com/assets/2946769/18939008/b7a0bd9e-8605-11e6-8770-f81113ba3dbc.png)
-_Serves Ughali_
+_Serves Nigerian Jollof_
 
 
 ## Installation
