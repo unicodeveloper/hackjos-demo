@@ -1,7 +1,7 @@
 {
-  "name": "DevCraft Demo",
+  "name": "HackJos Demo",
   "description": "Sample app showing how to use Auth0 with Angular 1.x",
-  "repository": "https://github.com/unicodeveloper/devcraft-demo",
+  "repository": "https://github.com/unicodeveloper/hackjos-demo",
   "keywords": ["angular", "auth0"],
   "env": {
     "CLIENT_ID": {

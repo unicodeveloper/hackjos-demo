@@ -1,6 +1,6 @@
 <html ng-app="app">
   <head>
-    <title>DevCraft-Demo</title>
+    <title>HackJos-Demo</title>
 
     <!-- Viewport settings-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
@@ -18,12 +18,12 @@
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a class="navbar-brand" href="#/">#DevCraft-Demo</a>
+          <a class="navbar-brand" href="#/">#HackJos-Demo</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="#/">Home</a></li>
-            <li ng-if="isAuthenticated"><a href="#/serve">Grab Ughali</a></li>
+            <li ng-if="isAuthenticated"><a href="#/serve">Grab Jollof</a></li>
             <li ng-if="!isAuthenticated"><a href="#/login">Log In</a></li>
             <li ng-if="isAuthenticated"><a href="#/" ng-click="authService.logout()">Log Out</a></li>
           </ul>
