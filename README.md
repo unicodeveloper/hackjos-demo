@@ -6,14 +6,15 @@ A user signs into the app to unlock a tasty plate of Nigerian Jollof.
 
 ## Screenshots
 
-![screen shot 2016-09-29 at 5 25 26 am](https://cloud.githubusercontent.com/assets/2946769/18939004/b79e42a8-8605-11e6-85de-b509ebff9570.png)
+![screen shot 2016-11-03 at 11 44 41 am](https://cloud.githubusercontent.com/assets/2946769/19963506/fdbd0850-a1bc-11e6-82b2-d8299dc50af7.png)
 _HomePage_
-![screen shot 2016-09-29 at 5 25 42 am](https://cloud.githubusercontent.com/assets/2946769/18939006/b79f314a-8605-11e6-971d-29bf4470d7ba.png)
+![screen shot 2016-11-03 at 11 43 29 am](https://cloud.githubusercontent.com/assets/2946769/19963507/fdc09fba-a1bc-11e6-8e5c-f17739a224d6.png)
 _Auth0 lock Widget_
-![screen shot 2016-09-29 at 5 25 11 am](https://cloud.githubusercontent.com/assets/2946769/18939005/b79ebf26-8605-11e6-975b-cd57b76a3d60.png)
+![screen shot 2016-11-03 at 11 49 40 am](https://cloud.githubusercontent.com/assets/2946769/19963505/fdbc6986-a1bc-11e6-9243-ee4591e5c9ff.png)
 _Profile Info_
-![screen shot 2016-09-29 at 5 25 03 am](https://cloud.githubusercontent.com/assets/2946769/18939008/b7a0bd9e-8605-11e6-8770-f81113ba3dbc.png)
+![screen shot 2016-11-03 at 11 51 17 am](https://cloud.githubusercontent.com/assets/2946769/19963508/fdc19e2e-a1bc-11e6-87d8-c759d687d6c6.png)
 _Serves Nigerian Jollof_
+
 
 
 ## Installation
