@@ -48,6 +48,6 @@
       login: login,
       logout: logout,
       registerAuthenticationListener: registerAuthenticationListener,
-    }
+    };
   }
 })();
